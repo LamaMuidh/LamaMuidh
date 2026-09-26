@@ -35,6 +35,19 @@ Co-developed a domain-specific AI digital twin designed to preserve expert geolo
 
 🔗 [View Repository](https://github.com/remas565/mujassad)
 
+
+---
+
+### 🪑 Tajlees System — Automated Guest Seating System
+
+Developed an interactive guest seating and capacity-planning system that organizes guests based on priority, calculates seating capacity, automatically assigns seats, and generates visual seating plans.
+
+**Technologies:** Python, Streamlit, Pandas, Matplotlib, NumPy
+
+🔗 [Live Demo](https://tajleessystem-gyexogoy3whleqrffckznc.streamlit.app/)  
+💻 [View Repository](https://github.com/LamaMuidh/tajlees_system)
+
+
 ---
 
 ### 📐 Math Problem Classification
