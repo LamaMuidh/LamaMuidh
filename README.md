@@ -44,8 +44,7 @@ Developed an interactive guest seating and capacity-planning system that organiz
 
 **Technologies:** Python, Streamlit, Pandas, Matplotlib, NumPy
 
-🔗 [Live Demo](https://tajleessystem-gyexogoy3whleqrffckznc.streamlit.app/)  
-💻 [View Repository](https://github.com/LamaMuidh/tajlees_system)
+🔗 [Live Demo](https://tajleessystem-gyexogoy3whleqrffckznc.streamlit.app/) | [View Repository](https://github.com/LamaMuidh/tajlees_system)
 
 
 ---
