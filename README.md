@@ -1,4 +1,4 @@
-# Hi, I'm Lama Alsulami 
+# Hi, I'm Lama Alsulami
 
 ### Artificial Intelligence Graduate | Machine Learning • NLP • Generative AI
 
@@ -22,11 +22,12 @@ I enjoy building practical AI solutions that connect models and data with real-w
 **AI & ML:** PyTorch, Transformers, Scikit-learn, Pandas, NumPy, NLTK  
 **LLMs:** RAG, Fine-Tuning, QLoRA, Hugging Face Transformers  
 **Development:** FastAPI, Streamlit, Git, GitHub  
-**Data & Automation:** Airtable, Make, Pabbly, Power BI
+**Data & Automation:** Airtable, Make, Pabbly, Power BI  
 
 ## 🚀 Featured Projects
 
 ### 🧠 Mujassad — AI-Powered Digital Twin
+
 Graduation project developed in collaboration with the Saudi Geological Survey.
 
 Co-developed a domain-specific AI digital twin designed to preserve expert geological knowledge and provide reliable, cited responses through interactive text and avatar interfaces.
@@ -34,7 +35,6 @@ Co-developed a domain-specific AI digital twin designed to preserve expert geolo
 **Technologies:** LLMs, RAG, QLoRA Fine-Tuning, NLP, FastAPI, Python
 
 🔗 [View Repository](https://github.com/remas565/mujassad)
-
 
 ---
 
@@ -46,10 +46,10 @@ Developed an interactive guest seating and capacity-planning system that organiz
 
 🔗 [Live Demo](https://tajleessystem-gyexogoy3whleqrffckznc.streamlit.app/) | [View Repository](https://github.com/LamaMuidh/tajlees_system)
 
-
 ---
 
 ### 📐 Math Problem Classification
+
 Developed and evaluated NLP pipelines for mathematical problem classification using transformer-based embeddings and machine learning.
 
 **Technologies:** SciBERT, NLP, Machine Learning, Python
@@ -59,20 +59,24 @@ Developed and evaluated NLP pipelines for mathematical problem classification us
 ---
 
 ### 👁️ Mubsir — AI Security System for Hajj
-Developed an AI-powered security system using computer vision and thermal imaging to support monitoring at inspection points and critical locations during Hajj.
 
-**Technologies:** Computer Vision, Artificial Intelligence, Python
+Developed a computer vision prototype as part of the Health & Security in Hajj Hackathon Forum, exploring AI-based visual monitoring to support security personnel at inspection points and critical locations during Hajj.
+
+**Technologies:** Computer Vision, OpenCV, Python, Streamlit
 
 🔗 [View Repository](https://github.com/LamaMuidh/mubser)
 
 ---
 
 ### 🏥 Tibab — AI Emergency Triage System
+
 Developed an AI-based emergency triage concept during the 5th Health Innovation Hackathon to support faster patient prioritization using medical history and vital signs.
+
+The concept was designed to help reduce delays associated with manual triage, ease emergency department congestion, and improve healthcare resource utilization.
 
 **Focus:** Artificial Intelligence, Machine Learning, Healthcare Technology
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/lamaalsulami/)
+- [LinkedIn](https://www.linkedin.com/in/lamaalsulami)
 - 📍 Makkah, Saudi Arabia
